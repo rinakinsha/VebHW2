@@ -1,0 +1,22 @@
+body {
+    background: #000;
+    color: #fff;
+}
+
+body {
+    font-size: 1.4rem;
+    font-family: 'Marck Script', cursive;
+}
+
+#pic {
+    float: left;
+    /* Обтекание картинки текстом */
+}
+
+#text {
+    margin-left: 110px;
+    /* Отступ от левого края */
+}
+p {
+    text-indent: 20px; /* Отступ первой строки в пикселах */
+   }
